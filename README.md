@@ -28,6 +28,12 @@ https://github.com/tolking/usercss/tree/master/bilibili-palette
 
 (???)
 
+**where i steal the pictures from**
+
+https://osu.ppy.sh/beatmapsets?q=nanahira%20pack%20vol&s=any
+
+↑ all the images come from the first four search results
+
 ---
 
 **pics that are obviously not showing the crappy part which i have not finished**
