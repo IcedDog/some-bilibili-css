@@ -27,3 +27,12 @@ https://github.com/xiaofeiTM233/bilibili-activity-theme
 https://github.com/tolking/usercss/tree/master/bilibili-palette
 
 (???)
+
+---
+
+**pics that are obviously not showing the crappy part which i have not finished**
+
+![](FP8)_~(H8@4DGYW5R4T8R86.png)
+![]({ORQB0_G{D~G)DU9$S@_J$X.png)
+![](_6SH8WR0O6XTX3OOX54I3]T.png)
+![](E0}1UKR$MNQ5H_77N5Q(JYI.png)
