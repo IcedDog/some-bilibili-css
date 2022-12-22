@@ -1321,7 +1321,7 @@
     }
 }
 
-@-moz-document url-prefix("https://t.bilibili.com"), domain("bilibili.com") {
+@-moz-document url-prefix("https://t.bilibili.com"), domain("bilibili.com"), url-prefix("https://live.bilibili.com") {
 
 
     /*动态页中列下*/
@@ -2931,7 +2931,7 @@
         background: rgba(90, 90, 90, .5);
         backdrop-filter: blur(100px);
         margin-top: 10px;
-        padding-bottom: 4px;
+        padding: 18px;
         border-color: transparent;
         
     }
@@ -2983,13 +2983,28 @@
     border: none;
 }
     .user-info .user-info-title[data-v-31d5659a] {
-        border-bottom:none;}
+        border-bottom:none;margin-bottom:0px;padding-bottom:10px;}
     .n .n-data .n-data-v {
     color: #cccccc;
 }
  .col-2 {
     position: relative;
 }
+    #page-index .col-2 .section-title {
+    border-bottom: none;
+        color:#e2e2e2;
+}
+    .i-live .i-live-unfo-btn {
+    border-color: #555;
+        color: #999
+}
+    .i-live .i-live-fo-count {
+    border: 1px solid #555;
+}
+    .i-live .i-live-title {
+    color: #ccc;
+}
+    
     
 }
 
@@ -3000,6 +3015,10 @@
     .v-wrap{
         background-color: #222222bb;
         backdrop-filter: blur(15px);
+    }
+    
+    .webscreen-fix .v-wrap{
+        backdrop-filter:none;
     }
     
     .tit,.title,.up-info .up-info_right .name .username,.video-desc .desc-info,.bpx-player-sending-bar .bpx-player-video-info{
@@ -3029,11 +3048,6 @@
         box-shadow:none;
         
     }
-    .bpx-player-video-area {
-    -webkit-box-flex: none;
-    -ms-flex: none;
-    flex: none;
-}
     .video-toolbar{
         border-bottom:#44444455 1px solid;
     }
@@ -3066,9 +3080,6 @@
     background: #44444455;
     color: #6D7579;
     margin-top: 10px;
-    text-align: center;
-    line-height: 42px;
-    cursor: pointer;
 }
     .float-nav .nav-menu .nav-btn-item {
     background: #44444455;
@@ -3103,6 +3114,9 @@
     border: none;
     border-radius: 15px;
 }
+    .slide-ad[data-v-dc5ae6da] {
+    display:none;
+}
     
     
     
@@ -3123,3 +3137,14 @@
     
 }
 
+
+@-moz-document url-prefix("https://live.bilibili.com"){
+    /*直播页面调整*/
+    .link-navbar .main-ctnr .nav-logo[data-v-699834c3] {
+    color: #e2e2e2
+}
+    .link-navbar{
+        -webkit-link: #e2e2e2;
+    }
+    
+}
