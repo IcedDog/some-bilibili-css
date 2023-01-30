@@ -16,6 +16,10 @@ adjust a few settings if they need to (like changing to dark mode or what. i for
 
 then finished
 
+also you should not use the new version of UI on bilibili
+
+that sh*t sucks and it breaks the code
+
 ---
 
 **where i steal the code from**
