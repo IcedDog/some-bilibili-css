@@ -4277,10 +4277,9 @@ domain("bilibili.com") {
         content:"🚧 广告位招租 🚧"; 
         display:block;
         font-size: 13px;
-        background-color: var(--bg2);
         padding:10px;
         border-radius: 30px;
-        margin-top:30%;
+        padding-top:30%;
         text-align:center;
         color: var(--text1);
     }
@@ -4355,7 +4354,7 @@ domain("bilibili.com") {
     .mt_xxl.search-conditions.i_wrapper.mt_lg{
         backdrop-filter:blur(15px);
         background-color: rgba(90, 90, 90, .4);
-        margin:0 auto;
+        margin:0px 96px;
         width:auto;
         margin-top:0px !important;
         max-width: 2008px;
