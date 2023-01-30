@@ -6,6 +6,8 @@ i randomly adjusted things when i see things i dont like.
 
 doesnt support customization, because i made this for myself.
 
+![](https://img.shields.io/badge/issue-not%20welcome-red)![](https://img.shields.io/badge/pull%20requests-yes%20please-green)
+
 ---
 
 **Usage:**
